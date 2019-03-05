@@ -11,4 +11,3 @@ Trabajo UMA Introducción a Ingeniería del Software
 -PABLO DIAZ GARCIA (PabloDGUMA)
 
 -FRANCISCO FERNÁNDEZ MONTIEL (KIKOKATZEN)
-kikoooooooooo
