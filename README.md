@@ -8,7 +8,7 @@ Trabajo UMA Introducción a Ingeniería del Software
 
 -PABLO DIAZ GARCIA (PabloDGUMA)
 
--FRANCISCO FERNÁNDEZ MONTIEL (kikokatzen)
+-FRANCISCO FERNÁNDEZ MONTIEL (el policia de diamante)
 
 -ENRIQUE GARRIDO SÁNCHEZ (Gulashode)
 
