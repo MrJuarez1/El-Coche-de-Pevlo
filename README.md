@@ -8,6 +8,7 @@ Trabajo UMA Introducción a Ingeniería del Software
 
 -JESÚS CALLE LOZANO
 
--PABLO DIAZ GARCIA 
+-PABLO DIAZ GARCIA (PabloDGUMA)
+
 -FRANCISCO FERNÁNDEZ MONTIEL (KIKOKATZEN)
 kikoooooooooo
